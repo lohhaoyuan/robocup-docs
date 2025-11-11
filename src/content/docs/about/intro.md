@@ -1,0 +1,29 @@
+---
+title: Introduction
+description: Introduction to RoboCup and this documentation.
+---
+
+Welcome to the RoboCup documentation! This comprehensive guide provides information about RoboCup robotics competitions, rules, technical specifications, and best practices.
+
+## What is RoboCup?
+
+RoboCup is an international initiative to promote AI, robotics, and related research by providing a standard problem that is engaging, publicly appealing, and easy to understand, but also challenging enough to be interesting from a research perspective.
+
+## Purpose of This Documentation
+
+This documentation serves as a central resource for:
+
+- **Team Leaders**: Understanding competition rules and requirements
+- **Developers**: Technical guidance and implementation examples
+- **Researchers**: Best practices and research methodologies
+- **Enthusiasts**: Learning about robotics and autonomous systems
+
+## Getting Started
+
+New to RoboCup? Check out our [guides](/guides/) section for step-by-step tutorials and instructions to get you started.
+
+For detailed technical information, visit our [reference](/reference/) documentation.
+
+## Community
+
+RoboCup is built on community collaboration. We encourage teams and researchers to contribute to this documentation and share their experiences and insights.

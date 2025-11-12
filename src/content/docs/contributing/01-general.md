@@ -12,17 +12,20 @@ Thank you for your interest in contributing to the RoboCup documentation! This g
 ## Ways to Contribute
 
 ### Report Issues
+
 - Found a typo or error? Let us know!
 - Noticed outdated information? Please report it.
 - Have suggestions for improvement? We'd love to hear them.
 
 ### Add or Improve Documentation
+
 - Write new guides and tutorials
 - Expand existing sections with more detail
 - Add code examples and clarifications
 - Improve readability and organization
 
 ### Share Resources
+
 - Recommend helpful YouTube channels
 - Suggest relevant papers or books
 - Share community tools and libraries
@@ -31,6 +34,7 @@ Thank you for your interest in contributing to the RoboCup documentation! This g
 ## Getting Started
 
 ### Prerequisites
+
 - GitHub account
 - Basic knowledge of Git
 - Familiarity with Markdown
@@ -41,17 +45,20 @@ Thank you for your interest in contributing to the RoboCup documentation! This g
    :::caution[Permission Needed]
    This repository is not open to the public. Please seek access from [contributors](/about/03-ownership/#contributors).
    :::
+
    ```bash
    # Navigate to the robocup-docs repository on GitHub and click "Fork"
    ```
 
 2. **Clone your fork**
+
    ```bash
    git clone https://github.com/YOUR-USERNAME/robocup-docs.git
    cd robocup-docs
    ```
 
 3. **Install dependencies**
+
    ```bash
    npm install
    ```
@@ -64,25 +71,30 @@ Thank you for your interest in contributing to the RoboCup documentation! This g
 ## Contribution Workflow
 
 ### 1. Create a New Branch
+
 ```bash
 git checkout -b feature/your-feature-name
 ```
 
 Use descriptive branch names like:
+
 - `docs/add-getting-started-guide`
 - `fix/typo-in-resources`
 - `docs/update-reference-section`
 
 ### 2. Make Your Changes
+
 - Edit existing files or create new ones
 - Use Markdown for all documentation
 - Keep formatting consistent with existing pages
 - Add frontmatter with title and description
 
 ### 3. Preview Your Changes
+
 Visit `http://localhost:3000` to see your changes in real-time
 
 ### 4. Commit Your Changes
+
 ```bash
 git add .
 git commit -m "Add descriptive commit message"
@@ -91,11 +103,13 @@ git commit -m "Add descriptive commit message"
 Write clear commit messages explaining what changed and why.
 
 ### 5. Push to Your Fork
+
 ```bash
 git push origin feature/your-feature-name
 ```
 
 ### 6. Submit a Pull Request
+
 - Go to the main repository
 - Click "New Pull Request"
 - Select your branch
@@ -105,11 +119,14 @@ git push origin feature/your-feature-name
 ## Documentation Standards
 
 ### File Naming
+
 - Use lowercase with hyphens: `my-guide.md`
 - For ordered sections, prefix with numbers: `01-intro.md`, `02-setup.md`
 
 ### Frontmatter
+
 Every markdown file should start with:
+
 ```yaml
 ---
 title: Your Page Title
@@ -118,6 +135,7 @@ description: A brief description of the page.
 ```
 
 ### Formatting Guidelines
+
 - Use clear, concise language
 - Break content into logical sections with headings
 - Use code blocks for examples
@@ -125,6 +143,7 @@ description: A brief description of the page.
 - Add alt text to all images
 
 ### Structure
+
 - **Guides**: Step-by-step instructions for specific tasks
 - **Reference**: Technical information and specifications
 - **About**: General information and project details
@@ -133,6 +152,7 @@ description: A brief description of the page.
 ## Code of Conduct
 
 Please be respectful and constructive in all interactions. This is a community project, and we value:
+
 - Respectful communication
 - Constructive feedback
 - Inclusivity and diversity
@@ -141,6 +161,7 @@ Please be respectful and constructive in all interactions. This is a community p
 ## Questions?
 
 If you have questions about contributing:
+
 - Check existing documentation
 - Review previous pull requests
 - Open an issue to discuss your ideas

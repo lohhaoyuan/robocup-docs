@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: About RoboCup
 description: Introduction to RoboCup and this documentation.
 ---
 

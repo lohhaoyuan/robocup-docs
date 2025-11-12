@@ -1,36 +1,39 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
+title: Welcome to RoboCup Documentation
+description: Comprehensive documentation for RoboCup robotics competitions and research.
 template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
+  tagline: Your resource for RoboCup, robotics, and autonomous systems
   image:
-    file: ../../assets/houston.webp
+    file: ../../assets/robo-logo-transparent.png
   actions:
-    - text: Example Guide
-      link: /guides/example/
+    - text: Get Started
+      link: /about/01-disclaimers/
       icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
-      variant: minimal
+    - text: Explore Guides
+      link: /guides/example
+      icon: open-book
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+:::caution[Work in Progress]
+This documentation is currently under active development. Content is being added and updated regularly. Thank you for your patience!
+:::
+
+## Featured Sections
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="About RoboCup" icon="information">
+		Learn about RoboCup, its mission, and this documentation project.
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="Guides" icon="rocket">
+		Step-by-step guides to help you get started with RoboCup.
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
+	<Card title="Resources" icon="open-book">
+		Curated learning materials, tools, and community links.
 	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="Contribute" icon="add-document">
+		Help improve this documentation by contributing content and corrections.
 	</Card>
 </CardGrid>

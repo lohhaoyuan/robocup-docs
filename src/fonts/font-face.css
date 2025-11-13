@@ -15,11 +15,11 @@
 */
 
 /* Optional quick default to use Inter (already imported in globals.css) */
-:root {
+/* :root {
     
   --site-font: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
 }
 
 body {
   font-family: var(--site-font);
-}
+} */

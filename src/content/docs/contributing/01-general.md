@@ -61,6 +61,7 @@ Thank you for your interest in contributing to the RoboCup documentation! This g
 
    ```bash
    npm install
+   npm install starlight-theme-flexoki
    ```
 
 4. **Start the development server**

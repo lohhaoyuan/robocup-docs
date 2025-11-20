@@ -7,7 +7,7 @@ Welcome to the RoboCup documentation! This page should mainly serve as a hub to 
 
 ## What is RoboCup?
 
-<img src="/robocup-open-stock-footage.jpg" alt="Stock footage of 2v2 Robocup Open match" width="100%"/>
+<img src="/robocup-open-senrobo-gameplay.jpeg" alt="Stock footage of 2v2 Robocup Open match" width="100%"/>
 
 To put it in the terms of Claude:
 

@@ -1,0 +1,18 @@
+/* Justify all text content */
+article p,
+article li,
+article td,
+main p,
+main li,
+main td {
+	text-align: justify;
+}
+
+/* Optional: Add hyphenation for better justified text */
+article p,
+article li,
+main p,
+main li {
+	hyphens: auto;
+	overflow-wrap: break-word;
+}

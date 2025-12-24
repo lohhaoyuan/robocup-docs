@@ -11,11 +11,21 @@ Before one delves further deeper into this documentation, one must recognise the
 
 ## Disclaimer
 
-The information provided in this document should not be taken blindly, and readers’ discretion is advised.
+The information and recommendations provided in this document should not be taken blindly, and readers’ discretion is advised.
 
-While the information here has (hopefully) been fact-checked, we may have inadvertently overlooked some aspects, or included bias in the way information has been presented. This document should not be taken as gospel truth, and the author(s) do not take responsibility for any mishaps (or any other adverse outcomes of similar nature) that may occur directly or indirectly from information contained in this document. However, should this document lead to any positive outcomes, the author(s) of this document take full credit for them, regardless of the extent in which this document had contributed - i.e. any form of contribution takes full credit.
+While the information here has (hopefully) been fact-checked, we may have inadvertently overlooked some aspects, or included bias in the way information has been presented. This document should not be taken as gospel truth, and the author(s) do not take responsibility for any mishaps (or any other adverse outcomes of similar nature) that may occur directly or indirectly from information contained in this document.
 
-Additionally, nothing in this document should be construed as carrying any legal force or any other form of coercive weight.
+## Safety Notice
+
+No part of this text shall be used as a reason for breaking established safety procedures. In the unlikely event of a conflict between this text and established safety procedures, consult the relevant responsible authority for guidance.
+
+## Legal Notice
+
+Whilst every effort has been made to minimise errors in this text, the author and publisher specifically disclaim any liability to anyone for any errors or omissions which remain. The reader is required to exercise good judgement when applying ideas or information from this book.
+
+## Device Data
+
+Where specific manufacturers’ data has been quoted, this is purely for the purpose of specific illustration. The reader should not infer that items mentioned are being endorsed or condemned, or any shade of meaning in between.
 
 ## Unrefined Tastes
 
@@ -50,3 +60,11 @@ I would know. I wrote it.
 This entire section, including this Fun Fact box, is part of Questionable Authorship.
 I wrote it.
 :::
+
+## Acknowledgements
+
+This website draws upon a wide range of books, academic materials, online articles, videos, open-source projects, and other publicly available resources, some of which were purchased and others accessed freely.
+
+While every effort is made to respect original authorship, full citation may not always be possible or complete. All credit ultimately belongs to the creators whose work, ideas, and generosity have shaped the content presented here. This site exists as a learning and synthesis project, not a claim of original authorship over the referenced concepts.
+
+If you believe any material has been used improperly or should be credited differently, please get in touch and it will be reviewed promptly.

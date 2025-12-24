@@ -27,6 +27,12 @@ Robots play in a 2v2 format, with the objective being to score as many points in
 
 Below highlights some key rules of the game.
 
+## The Playfield
+
+<img src="/soccer-field-drawing.png" alt="Dimensions of the Robocup Junior playfield" width="100%"/>
+
+The playfield is the enclosed green-carpet area where all RoboCupJunior Soccer matches are played, complete with surrounding walls, goals, field markings, and ball-return slopes to keep the game flowing. While the general layout is standard across competitions, exact measurements and construction details are defined in the official field specifications, which are linked [here](https://robocup-junior.github.io/soccer-rules/master/field_specification.pdf) for reference.
+
 ### Procedures and length of a game
 
 The game will consist of two halves. The duration of each half is 10-minutes. There will be a 5-minute break in between the halves.

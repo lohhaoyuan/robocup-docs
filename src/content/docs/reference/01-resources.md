@@ -67,6 +67,10 @@ Interesting, technical stuff, but mostly overkill or unrelated to Robocup. Nonet
 - [The Signal Path](https://www.youtube.com/@TheSignalPath)
 - [ElectrArc240](https://www.youtube.com/@electrarc240)
 
+## Books
+
+- All book references in .pdf can be found [here](https://github.com/lohhaoyuan/robocup-docs/tree/main/public/references/books)
+
 ## Team Blogs
 
 ### Hwa Chong Robocup

@@ -109,16 +109,20 @@ Typically, one robot is used as a goalkeeper, while the other attempts to score.
 
 ### Drive
 
+<img src="/holomonic-drive.jpg" alt="Image of holomonic drive" width="100%"/>
+
 Robots are usually constructed with a holonomic drive (also known as "X-drive" in vex terms)
 - This comes in the form of 4 motors arranged in an "X" shape, allowing the robot to move in any direction instantly without needing to rotate its body first.
+
+More information can be found in the [bozotics team page](https://bozotics.github.io/open/mech/drive/).
 
 ### Dribbler & Kicker
 To aid in scoring, robots usually have a dribbler and kicker.
 - Kicker: This comes in the form of an actuator, and is the mechanism that strikes the ball with force so the robot can score from a distance, clear the ball, or pass with speed.
-- Dribbbler: This imparts a backspin on the ball, allowing the robot to maintain possession of the ball while moving
+- Dribbbler: This imparts a backspin on the ball, allowing the robot to maintain possession of the ball while moving. More information on dribblers can be found on the [bozotics team page](https://bozotics.github.io/open/mech/dribbler/).
 
 ### Mirror
 The robot needs to be able track the ball in order to score. In the vision league, this can only be done using a camera and image processing systems. In the infrared league, this can be done with a camera, but also IR sensors.
 - In order to view the whole field with only one camera, a curved mirror is used to provide 360 degree vision for the robot i.e. catoptric system.
 
-This section only briefly covers the various components of a Robocup robot. A more comprehensive documentation can be found [here](/reference/02-robots).
+This section only briefly covers the various components of a Robocup robot. A more comprehensive documentation can be found [on our page](/reference/02-robots), or in the [bozotics team page](https://bozotics.github.io/open/mech/mirror/).

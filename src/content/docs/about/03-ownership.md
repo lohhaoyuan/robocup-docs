@@ -20,4 +20,4 @@ Loh Hao Yuan | +65 92350750 | 221409L@student.hci.edu.sg | hyloh@icloud.com
 
 ## Attribution
 
-This document likely incorporates material from other sources, whether intentionally or inadvertently. Should there be a lack of attribution, it should be noted that these are completely accidental. Do not reach out to seek that these be corrected, unless in extremely dire circumstances.
+This document likely incorporates material from other sources, whether intentionally or inadvertently. Should there be a lack of attribution, it should be noted that these are completely accidental. Do reach out to seek that these be corrected, especially in extremely dire circumstances.

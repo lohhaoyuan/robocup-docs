@@ -69,7 +69,8 @@ Interesting, technical stuff, but mostly overkill or unrelated to Robocup. Nonet
 
 ## Books
 
-- All book references in .pdf can be found [here](https://github.com/lohhaoyuan/robocup-docs/tree/main/public/references/books)
+- Most book references in .pdf can be found [here](https://github.com/lohhaoyuan/robocup-docs/tree/main/public/references/books)
+- More books can be found [here](https://iconnect007.com/i007e/ebooks)
 
 ## Team Blogs
 

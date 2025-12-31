@@ -14,9 +14,9 @@ Established in 2025, the Hwa Chong Robotics (RoboCup Section) serves as the foun
 
 ## Contributors
 
-Ng Chen-Xuan | +65 82865626 | 241927r@student.hci.edu.sg | contact@ngchenxuan.com
+Ng Chen-Xuan | 241927r@student.hci.edu.sg | contact@ngchenxuan.com
 
-Loh Hao Yuan | +65 92350750 | 221409L@student.hci.edu.sg | hyloh@icloud.com
+Loh Hao Yuan | 221409L@student.hci.edu.sg | hyloh@icloud.com
 
 ## Attribution
 
